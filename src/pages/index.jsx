@@ -159,9 +159,9 @@ const Index = () => (
       <Content speed={0.4} offset={0}>
         <Hero>
           <BigTitle>
-            Hello, <br /> I'm John Doe.
+            Hello, <br /> I'm Denham Rogers.
           </BigTitle>
-          <Subtitle>I'm creating noice web experiences for the next generation of consumer-facing companies.</Subtitle>
+          <Subtitle>I build websites and create marketing materials that help business stand apart.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -172,35 +172,31 @@ const Index = () => (
       />
       <Content speed={0.4} offset={1.2} factor={2}>
         <Inner>
-          <Title>Projects</Title>
+          <Title>Services</Title>
           <ProjectsWrapper>
             <ProjectCard
-              title="Freiheit"
-              link="https://www.behance.net/gallery/58937147/Freiheit"
+              title="Web Development"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              This project is my entry to Adobe's #ChallengeYourPerspective contest.
+              Websites shouldn't only look good, but be a tool for you and your customers. Not only do we build functional, stylish sites, but we make it easy and affordable to manage.
             </ProjectCard>
             <ProjectCard
-              title="Harry Potter"
-              link="https://www.behance.net/gallery/52915793/Harry-Potter"
+              title="Print Design"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              I entered the DOCMA 2017 award with this Harry Potter inspired image.
+              Prints not dead, it's just changed. Mailers, flyers, promotional good, we can help design and supply you with what you need.
             </ProjectCard>
             <ProjectCard
-              title="Tomb Raider"
-              link="https://www.behance.net/gallery/43907099/Tomb-Raider"
+              title="Digital Advertising"
               bg="linear-gradient(to right, #009245 0%, #FCEE21 100%)"
             >
-              Recreation of a Tomb Raider Wallpaper (Fan Art)
+              Learning, designing, and managing digital marketing campaigns can be a pain unless your in it everyday like us. Let's discuss how we can help grow your business.
             </ProjectCard>
             <ProjectCard
-              title="Eagle"
-              link="https://www.behance.net/gallery/38068151/Eagle"
+              title="Consulting"
               bg="linear-gradient(to right, #D585FF 0%, #00FFEE 100%)"
             >
-              A fantasy image manipulation relocating the habitat of wild animals.
+              Need help improving automation processes, or help improving customer experience through technology? We may be able to help.
             </ProjectCard>
           </ProjectsWrapper>
         </Inner>
@@ -251,19 +247,18 @@ const Index = () => (
         <Inner>
           <Title>About</Title>
           <AboutHero>
-            <Avatar src={avatar} alt="John Doe" />
+            <Avatar src={avatar} alt="Headshot of Denham Rogers" />
             <AboutSub>
-              The English language can not fully capture the depth and complexity of my thoughts. So I'm incorporating
-              Emoji into my speech to better express myself. Winky face.
+              Graphic Designer, and Web Developer with a marketing mind. I like to focus on sustainable growth of business and repeatable process to help continue it. Design is not only asethic, it is functional in how the human mind perceives it. If you want to talk about a project or have any questions, feel free to email me at denhamrogers10@gmail.com. 
             </AboutSub>
           </AboutHero>
-          <AboutDesc>
+          {/* <AboutDesc>
             You know the way you feel when you see a picture of two otters holding hands? That's how you're gonna feel
             every day. My mother cried the day I was born because she knew she’d never be prettier than me. You should
             make me your campaign manager. I was born for politics. I have great hair and I love lying. Captain? The
             kids want to know where Paulie the Pigeon is. I told them he got sucked up into an airplane engine, is that
             all right?
-          </AboutDesc>
+          </AboutDesc> */}
         </Inner>
       </Content>
       <Divider fill="#23262b" speed={0.2} offset={4}>
@@ -286,14 +281,11 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:plizNoSp4m@domain.tld">Hi</a> or find me on other platforms:{' '}
-            <a href="https://dribbble.com/LekoArts">Dribbble</a> &{' '}
-            <a href="https://www.instagram.com/lekoarts.de/">Instagram</a>
+            Say <a href="mailto:denhamrogers10@gmail.com">Hi</a> even if you just have questions or what to know how to get a project started.
           </ContactText>
         </Inner>
         <Footer>
-          &copy; 2018 by Gatsby Starter Portfolio Cara.{' '}
-          <a href="https://github.com/LeKoArts/gatsby-starter-portfolio-cara">Github Repository</a>.
+          &copy; 2018 Denham Rogers.
         </Footer>
       </Content>
       <Divider speed={0.1} offset={4}>
