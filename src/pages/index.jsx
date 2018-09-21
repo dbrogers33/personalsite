@@ -161,7 +161,7 @@ const Index = () => (
           <BigTitle>
             Hello, <br /> I'm Denham Rogers.
           </BigTitle>
-          <Subtitle>I build websites and create marketing materials that help business stand apart.</Subtitle>
+          <Subtitle>I build websites and create marketing materials that help businesses stand apart.</Subtitle>
         </Hero>
       </Content>
       <DividerMiddle
@@ -178,13 +178,13 @@ const Index = () => (
               title="Web Development"
               bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
             >
-              Websites shouldn't only look good, but be a tool for you and your customers. Not only do we build functional, stylish sites, but we make it easy and affordable to manage.
+              Websites should not only look good, but be a tool for you and your customers. Not only do we build functional, stylish sites, but we make it easy and affordable to manage them.
             </ProjectCard>
             <ProjectCard
               title="Print Design"
               bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
             >
-              Prints not dead, it's just changed. Mailers, flyers, promotional good, we can help design and supply you with what you need.
+              Prints not dead, it's just changed over the years. Direct Mailers, flyers, promotional good, we can help design and supply you with what you need.
             </ProjectCard>
             <ProjectCard
               title="Digital Advertising"
@@ -249,7 +249,7 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="Headshot of Denham Rogers" />
             <AboutSub>
-              Graphic Designer, and Web Developer with a marketing mind. I like to focus on sustainable growth of business and repeatable process to help continue it. Design is not only asethic, it is functional in how the human mind perceives it. If you want to talk about a project or have any questions, feel free to email me at denhamrogers10@gmail.com. 
+              Graphic Designer, and Web Developer with a marketing mind. I focus on sustainable growth of business and repeatable process to help continue it. Design is not only asethic, it is functional in how the human mind perceives it. If you want to talk about a project or have any questions, feel free to email me at denhamrogers10@gmail.com. 
             </AboutSub>
           </AboutHero>
           {/* <AboutDesc>
