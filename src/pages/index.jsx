@@ -281,7 +281,7 @@ const Index = () => (
         <Inner>
           <Title>Get in touch</Title>
           <ContactText>
-            Say <a href="mailto:denhamrogers10@gmail.com">Hi</a> even if you just have questions or what to know how to get a project started.
+            Say <a href="mailto:denhamrogers10@gmail.com">Hi</a> even if you just have questions or want to know how to get a project started.
           </ContactText>
         </Inner>
         <Footer>
