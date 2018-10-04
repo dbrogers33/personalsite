@@ -249,7 +249,7 @@ const Index = () => (
           <AboutHero>
             <Avatar src={avatar} alt="Headshot of Denham Rogers" />
             <AboutSub>
-              Graphic Designer, and Web Developer with a marketing mind. I focus on sustainable growth of business and repeatable process to help continue it. Design is not only asethic, it is functional in how the human mind perceives it. If you want to talk about a project or have any questions, feel free to email me at denhamrogers10@gmail.com. 
+              Graphic Designer, and Web Developer with a marketing mind. I focus on sustainable growth of business and repeatable process to help continue it. Design is not only aesthetic, it is functional in how the human mind perceives it. If you want to talk about a project or have any questions, feel free to email me at denhamrogers10@gmail.com. 
             </AboutSub>
           </AboutHero>
           {/* <AboutDesc>
